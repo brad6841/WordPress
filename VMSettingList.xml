@@ -1,0 +1,88 @@
+<Settings>
+	<Setting Name="isolation.tools.autoInstall.disable">
+		<Value>false</Value>
+	</Setting>
+	<Setting Name="isolation.tools.copy.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.dnd.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.setGUIOptions.enable">
+		<Value>false</Value>
+	</Setting>
+	<Setting Name="isolation.tools.paste.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.diskShrink.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.diskWiper.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="vmci0.unrestricted">
+		<Value>false</Value>
+	</Setting>
+	<Setting Name="isolation.tools.ghi.autologon.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.getCreds.disable"
+>
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.ghi.launchmenu.change"
+>
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.memSchedFakeSampleStats.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.ghi.protocolhandler.info.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.ghi.host.shellAction.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.ghi.trayicon.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.unity.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.unityInterlockOperation.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.unity.taskbar.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.unityActive.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.unity.windowContents.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.unity.push.update.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.vmxDnDVersionGet.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.guestDnDVersionSet.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="isolation.tools.vixMessage.disable">
+		<Value>true</Value>
+	</Setting>
+	<Setting Name="RemoteDisplay.maxConnections">
+		<Value>1</Value>
+	</Setting>
+	<Setting Name="log.keepOld">
+		<Value>10</Value>
+	</Setting>
+	<Setting Name="log.rotateSize">
+		<Value>10000</Value>
+	</Setting>
+	<Setting Name="tools.setInfo.sizeLimit">
+		<Value>1048576</Value>
+	</Setting>
+</Settings>
